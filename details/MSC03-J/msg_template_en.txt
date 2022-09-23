@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, ${si.var} in function ${si.func} has hard coded data and may contain sensitive information.

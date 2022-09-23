@@ -1,0 +1,1 @@
+In ${si.filename}, line ${si.line}, the function ${si.func} is opening a file without canonicalizing its name which may come from tainted source.

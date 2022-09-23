@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行，在函数${si.func}里，${si.var}自定义加载器覆盖getPermission()，而未调用超类别的权限。

@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} has non-void return but it will reach the exit without a return statement.

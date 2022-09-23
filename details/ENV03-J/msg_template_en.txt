@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} at line ${si.line} with method ${si.var}, we detected a dangerous combination of permissions granted to an object.

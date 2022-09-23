@@ -1,0 +1,1 @@
+在${si.filename}里第${si.line}行，buffer类中的${si.var}后备数组有可能通过函数${si.func}暴露给不可信任的代码。

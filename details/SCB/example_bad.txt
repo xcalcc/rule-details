@@ -1,0 +1,17 @@
+int foo();
+int a, b;
+
+int f1(int x) {
+ if (x) // in this condition (if-then-else, block 1 and block 2 are the same. Effectively making the conditional statement useless)
+ foo(); // block 1
+ else
+ foo(); // block 2
+}
+
+int f2(int x) {
+ return x ? foo() : foo(); // similar code written differently
+}
+
+int f3(int x) {
+  if (x);  // both then and else blocks are empty
+}

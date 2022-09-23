@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} has operations in expressions with signed integers.

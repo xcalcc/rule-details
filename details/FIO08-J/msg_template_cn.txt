@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行，${si.func}无法区分read()方法读取的字符和流结束指示符。

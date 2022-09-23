@@ -1,0 +1,1 @@
+在${si.filename}第${si.line}行，调用了函数readlink()并把其赋值给变量${si.var}。字符串读不一定是空终止。

@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func}, the catch block in line ${si.line} is empty.

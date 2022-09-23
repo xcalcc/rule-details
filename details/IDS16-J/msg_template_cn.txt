@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行，函数${si.func}的字符串${si.var}未被清理就被传递到XML查询。

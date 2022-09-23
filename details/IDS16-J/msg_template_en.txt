@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, the string ${si.var} in function ${si.func} is not sanitized before being passed to XML query.

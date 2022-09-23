@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} at line ${si.line}, a pointer to character ${si.var} was used to fill another character array/pointer. ${si.var} is not large enough to hold all data including null terminator and may cause memory access error.

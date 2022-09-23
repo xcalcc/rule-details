@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, variable ${si.var} in function ${si.func} has not been freed. Such variable is first assigned heap memory acquired in file ${so.file} at line ${so.line}.

@@ -1,0 +1,22 @@
+// Indirect recursion.
+// if first call to func_recurse is: func_recurse(p_glbl, 6)
+// this code segment will call func_recurse inside func_b
+
+int global = 5;
+static *p_glbl = &global;
+
+int func_b(int *q, int j)
+{
+ if (q != 0) {
+ return func_recurse(q, 5);
+ }
+ else
+ return 5;
+}
+
+int func_recurse(int *p, int i)
+{
+ if ((p != 0) && (*p != i))
+ return func_b(p, i); // calls func_recurse indirectly
+ return 0;
+}

@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} fails to close an open file before program termination.

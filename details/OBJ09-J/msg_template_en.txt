@@ -1,0 +1,1 @@
+In file ${si.filename} function ${si.func}, line ${si.line}, name is used to compare classes.

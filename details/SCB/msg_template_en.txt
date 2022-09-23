@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func}, the blocks of code are the same on either side of the conditional statement at line ${si.line}.

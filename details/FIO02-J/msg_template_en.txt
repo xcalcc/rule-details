@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} at line ${si.line}, a new file object ${si.var} is requested. Subsequent call to such object at line ${si.line} fails to check if file manipulation is successful.

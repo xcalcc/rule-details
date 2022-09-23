@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行，${si.func}里的变量${si.var}未被释放。${si.var}是在${so.file}，第${so.line}行获得首个堆内存的分配。

@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} is registered at line ${si.line} as exit handler. The program will exit and not return normally.

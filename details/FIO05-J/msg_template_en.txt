@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, the backing array of the buffer class ${si.var} can be exposed to untrusted code through function ${si.func}.

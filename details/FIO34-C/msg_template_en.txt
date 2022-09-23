@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} is using a return value of file read to check for EOF.

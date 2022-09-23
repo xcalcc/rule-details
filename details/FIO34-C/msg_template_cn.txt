@@ -1,0 +1,1 @@
+在${si.filename}第${si.line}行上的函数${si.func}正使用文件读的返回值来核实EOF。

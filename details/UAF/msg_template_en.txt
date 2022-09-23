@@ -1,0 +1,1 @@
+In file ${so.filename}, line ${so.line}, variable ${so.var} in function ${so.func} was used. However, it has been freed at line ${so.line} in file ${so.file}.

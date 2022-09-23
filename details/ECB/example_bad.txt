@@ -1,0 +1,19 @@
+#include <iostream>
+
+int integer_divide(int a, int b) {
+ if (b == 0) {
+ throw \"division by zero error\";
+ }
+ else return (a/b);
+}
+
+int foo(int x, int y) {
+ try {
+ int z = integer_divide(x, y);
+ std::cout << z << std::endl;
+ }
+ catch (const char* msg) {
+ // empty catch body, zero as divisor notice suppressed
+ }
+ return 0;
+}

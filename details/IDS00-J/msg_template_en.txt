@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} the string ${si.var} is not sanitized before the SQL query at line ${si.line}.

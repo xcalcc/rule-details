@@ -1,0 +1,1 @@
+In file ${si.filename} at line ${si.line}, function ${si.func}, ${si.var} overrides getPermission() without invoking superclass' permission.

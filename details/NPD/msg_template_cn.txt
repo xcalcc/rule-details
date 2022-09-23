@@ -1,0 +1,1 @@
+在${so.filename}，第${so.line}行，${so.func} 里对变量${so.var}检测到了NPD缺陷。该变量的值是零。

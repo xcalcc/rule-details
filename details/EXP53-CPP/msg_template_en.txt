@@ -1,0 +1,1 @@
+In file ${so.filename}, line ${so.line}, variable ${so.var} in function ${so.func} has been used but never assigned a value. 

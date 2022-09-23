@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行已验证了字符串。并在函数${si.var}被规范化。可是之后在${si.filename}，第${si.line}行才规范化。

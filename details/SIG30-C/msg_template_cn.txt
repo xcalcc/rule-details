@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行的函数${si.func}调用了signal程序。它的处理信号函数为${si.var}。此处理信号会调用非异步安全函数。

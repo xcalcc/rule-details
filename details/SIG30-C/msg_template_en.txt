@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} at line ${si.line}, a call to signal with handler ${si.var} occurs. Such handler will call functions that are not asynchronous-safe.

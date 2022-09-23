@@ -1,0 +1,29 @@
+void abort();
+void exit();
+int foo();
+
+int f1() {
+ abort();
+ foo(); // unreachable
+}
+int f2() {
+ exit();
+ foo(); // unreachable
+}
+
+int f3() {
+ foo();
+ goto L;
+ foo(); // unreachable
+L:
+ foo();
+}
+
+int f4(int x) {
+ foo();
+ goto L;
+ if (x>5) { // unreachable
+L:
+ foo();
+ }
+}

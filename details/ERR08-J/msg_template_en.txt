@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, a NullPointerException is caught at the try block in function ${si.func}.

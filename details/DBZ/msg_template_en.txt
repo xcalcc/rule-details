@@ -1,0 +1,1 @@
+In file ${so.filename}, line ${so.line}, variable ${so.var} in function ${so.func}, a division by zero has been detected. Such variable has a value of zero.

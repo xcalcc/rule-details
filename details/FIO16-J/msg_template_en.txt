@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, the file name string ${si.var} in function ${si.func} is not canonicalized before the file is opened.

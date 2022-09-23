@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} does not distinguish between characters read and end of the stream indicator by the read() method.

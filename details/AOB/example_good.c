@@ -1,0 +1,16 @@
+int assign(int* a, int i)
+{
+    return a[i];    /* called by main
+    a only has 2 elements but i is 2 */
+}
+
+#define ARR_SZ 2
+int main()
+{
+    int a[ARR_SZ] = {0, 1}, b;
+    b = assign(a, (ARR_SZ-1)); // call assign with a and i
+    // a has two elements and i is 2
+    // a[2] is out-of-bound and also uninitialized
+    printf("value of b = %d\\", b);
+    return 0;
+}

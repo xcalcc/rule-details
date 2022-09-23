@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} at line ${si.line}, {si.var} is passed to a system call. This variable is declared and considered unsanitized through the program flow.

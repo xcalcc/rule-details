@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行，有NullPointerException的异常在${si.func}函数的try块捕获到。

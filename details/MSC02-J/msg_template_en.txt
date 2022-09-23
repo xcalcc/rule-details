@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, the method ${si.var} in function ${si.func} does not generate strong random numbers.

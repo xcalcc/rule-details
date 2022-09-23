@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, the string is validated in function ${si.var} before being normalized。

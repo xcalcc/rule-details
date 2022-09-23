@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func}, it is not a POF (plain old function) even though it exhibits a signal handler behaviour.

@@ -1,0 +1,1 @@
+In file ${si.filename} at line ${si.line}, the function readlink() is called and assigned to ${si.var}. The string read is not null terminated.

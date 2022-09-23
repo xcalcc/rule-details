@@ -1,0 +1,1 @@
+在${si.filename}，${si.func} 里第${si.line}行，文件名的字符串 ${si.var} 在文件打开之前未被规范化。

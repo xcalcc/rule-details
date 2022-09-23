@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line},  ${si.func} may return a null string.

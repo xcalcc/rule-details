@@ -1,0 +1,1 @@
+In file ${si.filename}, function ${si.func} at line ${si.line}, a call to signal with handler ${si.var} is made. Such handler eventually will access a sharable memory object.

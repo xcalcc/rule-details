@@ -1,0 +1,1 @@
+In file ${so.filename}, line ${so.line}, the memory reference variable ${so.var} in function ${so.func} is used. Such variable is first assigned as a memory reference that may not be valid in file ${so.file}, line ${so.line}.

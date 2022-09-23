@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} is extracting file entries from a zip file without any sanitization or resource guard measures.

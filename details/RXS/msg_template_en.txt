@@ -1,0 +1,1 @@
+In file ${si.filename}, line ${si.line}, function ${si.func} is receiving untrusted data from external socket. The socket has been created in file ${si.filename} at line ${si.line}.

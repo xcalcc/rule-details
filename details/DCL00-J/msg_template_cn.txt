@@ -1,0 +1,1 @@
+在${si.filename}，第${si.line}行，${si.func}中的${si.var}类会构成初始化循环。
