@@ -1,1 +1,1 @@
-在${so.filename}，第${so.line}行，使用了${so.func}里的内存引用变量${so.var}。该变量首次被赋值为内存引用，这在${so.file}的第${so.line}行可能无效。
+在${so.filename}，第${so.line}行，使用了${so.func}里的内存引用变量${so.var}。该变量首次被赋值为内存引用，这在${so.filename}的第${so.line}行可能无效。

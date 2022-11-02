@@ -1,1 +1,1 @@
-在${so.filename}，第${so.line}行，${so.func}里使用了变量${so.var}。然而，此变量在${so.file}第${so.line}行已被释放。
+在${so.filename}，第${so.line}行，${so.func}里使用了变量${so.var}。然而，此变量在${so.filename}第${so.line}行已被释放。

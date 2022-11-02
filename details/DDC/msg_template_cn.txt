@@ -1,1 +1,1 @@
-在${si.filename}，函数${si.func}，第${si.line}行，在执行期间是无法访问的。
+在${si.filename}，函数${si.func}，第${si.line}行，在执行期间存在无法访问的代码。

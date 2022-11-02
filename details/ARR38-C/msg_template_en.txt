@@ -1,0 +1,1 @@
+In ${si.filename}, line ${si.line}, the function ${si.func} is calling a library function with a pointer and a size parameter.

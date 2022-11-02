@@ -1,1 +1,0 @@
-In ${si.filename}, line ${si.line}, the function ${si.func} is logging data that has not been sanitized.

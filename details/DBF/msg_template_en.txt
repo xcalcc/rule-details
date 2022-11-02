@@ -1,1 +1,1 @@
-In file ${si.filename}, line ${si.line}, resource variable ${si.var} at function ${si.func} has been released multiple times. Such variable is first released at file  ${so.file}, line ${so.line}.
+In file ${si.filename}, line ${si.line}, resource variable ${si.var} at function ${si.func} has been released multiple times. Such variable is first released at file  ${so.filename}, line ${so.line}.
